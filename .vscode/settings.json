@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/Users/amanda/.local/share/virtualenvs/django_ecommerce-jLFS4PhR/bin/python",
+
+    "python.linting.pylintArgs" :[
+        "--load-plugins=pylint_django"
+        ],
+    
+    "css.validation": {
+        "class": false
+    }
+}
